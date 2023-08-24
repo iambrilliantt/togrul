@@ -1,0 +1,59 @@
+body {
+  font-family: "Dosis", sans-serif;
+  font-weight: 500;
+}
+
+.imgbox {
+  overflow: hidden;
+}
+.imgbox img {
+  width: 100%;
+}
+
+#ToDo {
+  padding: 100px 0;
+}
+#ToDo .box {
+  background-color: #a4caff;
+  padding: 30px;
+  border-radius: 20px;
+  width: 300px;
+}
+#ToDo .box h1 {
+  font-size: 50px;
+  font-weight: 700;
+  color: white;
+  margin-bottom: 25px;
+}
+#ToDo .box input {
+  height: 54px;
+  border: 2px solid white;
+  border-radius: 50px;
+  font-size: 19px;
+  margin-bottom: 70px;
+}
+#ToDo .box .btn {
+  background-color: white;
+  border: 2px white;
+  width: 90px;
+  border-radius: 50px;
+  font-size: 18px;
+}
+#ToDo .box .btn h4 {
+  cursor: pointer;
+}
+#ToDo .minibox {
+  width: 250px;
+  margin-top: 50px;
+  background-color: white;
+  border-radius: 20px;
+  text-align: center;
+}
+#ToDo .minibox h2 {
+  font-size: 23px;
+  border: 2px solid #5d6d7e;
+  margin: 10px;
+  padding: 8px;
+  border-radius: 50px;
+  word-wrap: break-word;
+}/*# sourceMappingURL=style.css.map */
